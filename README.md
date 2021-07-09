@@ -1,4 +1,4 @@
-# Juego_laberinto_C-_POO
+# Juego_laberinto_C++_POO
 En este miniproyecto se estudian las bases de la programación orientada a objetos en lenguaje C++, de forma divertida con un juego de laberinto en consola.
 
 Para jugar debes usar las teclas 'a','w','d','s' para mover al jugador representado por el '*' y debes conducirlo hasta el '$' para ganar el premio.
