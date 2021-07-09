@@ -1,7 +1,7 @@
 # Juego_laberinto_C-_POO
 En este miniproyecto se estudian las bases de la programación orientada a objetos en lenguaje C++, de forma divertida con un juego de laberinto en consola.
 
-Para jugar debes usar las teclas 'a','w','d','s' para mover al jugador representado por el '*' y debes conducirlo hasta el '$' para ganar el premio. 
+Para jugar debes usar las teclas 'a','w','d','s' para mover al jugador representado por el '*' y debes conducirlo hasta el '$' para ganar el premio.
 
 Inicio del juego
 ![image](https://user-images.githubusercontent.com/44630882/125031664-8c41e180-e052-11eb-9ddc-4268d3bdd19c.png)
@@ -86,4 +86,3 @@ En términos vanos son estilos o formas de pensar(lógica) para resolver problem
 
 Archivos encabezados y archivos fuente
 #include "nombre de nuestro archivo"
-
